@@ -1,6 +1,22 @@
 
 
+# Muddassir Ali - The C# Crafter 
 
+## 🧑 About Me:
+I'm Muddassir, a straightforward coder with a perpetual curiosity. My tech journey is my playground, where I enjoy crafting software solutions. I don't dwell much on history, but I'm all about shaping the future with code
+
+## 🚀 My Projects:
+
+### Text Editor - A Microsoft Word Clone 📝
+- **Description:** A simple yet powerful text editor where you can write, customize, and download documents. 
+- **Tech Used:** ASP.NET WebAPI, HTML, CSS, JavaScript.
+
+### Wallet Management - Your Money Tracker 💰
+- **Description:** Keep tabs on your finances with ease. Input your monthly income and expenses to monitor your cash flow.
+- **Tech Used:** C#, ASP.NET Core MVC, SQL Server.
+
+### CRUD Applications - The Basics 🔄
+- **Description:** Various small applications focusing on Create, Read, Update, Delete functionalities.
 
 
 
