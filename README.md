@@ -123,6 +123,6 @@ I've taken the plunge into C# with the 10+ hour course from FreeCodeCamp on YouT
     <h3 style="color: #333;">Project 2</h3>
     <p>Wallet Management</p>
   </div>
-  <!-- Add more project tiles as needed -->
+   Add more project tiles as needed 
 </div>
 -->
