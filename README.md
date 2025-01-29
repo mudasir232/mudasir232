@@ -2,8 +2,10 @@
 
 # Muddassir Ali - The C# Crafter 
 
-## 🧑 About Me:
+##  About Me:
 I'm Muddassir, a straightforward coder with a perpetual curiosity. My tech journey is my playground, where I enjoy crafting software solutions. I don't dwell much on history, but I'm all about shaping the future with code
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://mudasir232.github.io/My-Portfolio)
+
 
 ## 🚀 My Projects:
 
